@@ -59,7 +59,7 @@ L’ONCFM attend de vous une démarche complète, depuis l’exploration des don
 ## 🛠️ Outils utilisés
 - **Python** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels.  
 - **Jupyter Notebook** pour la reproductibilité de l’analyse.  
-- **PowerPoint** pour la restitution des résultats.  
+- **PowerPoint** pour la présentation des résultats.  
 
 ---
 
