@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ONCFM.png" alt="Logo ONCFM" width="400"/>
+  <img src="ONCFM.png" alt="Logo ONCFM" width="600"/>
 </p>
 
 # 💶 Détection de faux billets – Projet ONCFM
